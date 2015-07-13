@@ -66,7 +66,7 @@ public class ForecastFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-       
+
 
         String[] forecastArray = {
                 "Today - Sunny - 88/63",
