@@ -72,9 +72,9 @@ public class ForecastFragment extends Fragment {
                 "Today - Sunny - 88/63",
                 "Tomorrow - Foggy - 70/40",
                 "Wed - Cloudy - 72/63",
-                "Thur - Asteriods - 75/65",
+                "Thur - Asteroids - 75/65",
                 "Fri - Heavy Rain - 65/56",
-                "Sat - Help Trapped in Weatherstation - 60/51",
+                "Sat - Help Trapped in Weather Station - 60/51",
                 "Sun - Sunny - 80/68"
         };
         List<String> weekForecast = new ArrayList<String>(Arrays.asList(forecastArray));
